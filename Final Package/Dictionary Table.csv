@@ -1,0 +1,10 @@
+Population Types,Keys,Accomodation Types,Keys,Location Type U/R/V,Keys
+Refugee,REF ,Individual accommodation,I ,Urban,U 
+People in refugee-like situation,ROC ,Self-settled camp,S ,Rural,R 
+Asylum-seekers,ASY ,Planned/managed camp,P ,Various/unknown,V 
+Other people in need of international protection,OIP ,Collective centre,C,,
+Internally displaced persons,IDP ,Reception/transit camp,R ,,
+People in IDP-like situation,IOC ,Undefined,U ,,
+Stateless people,STA ,,,,
+Others of concern,OOC ,,,,
+Host community,HST ,,,,
